@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/swiping-interface.iml" filepath="$PROJECT_DIR$/swiping-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShareABit.iml" filepath="$PROJECT_DIR$/ShareABit.iml" />
     </modules>
   </component>
 </project>
